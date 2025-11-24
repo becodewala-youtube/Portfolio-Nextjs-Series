@@ -18,7 +18,7 @@ export default function AboutPage() {
         <AnimatedSection>
           <SectionHeader
             overline="About Me"
-            title="Hi, I'm Alex Chen"
+            title="Hi, I'm Vikash Kumar"
             subtitle={siteConfig.description}
           />
         </AnimatedSection>

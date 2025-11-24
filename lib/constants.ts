@@ -1,20 +1,20 @@
 import { Project, SkillCategory, Experience, Stat, NavLink } from '@/types';
 
 export const siteConfig = {
-  name: "Alex Chen",
+  name: "Vikash Kumar",
   title: "Full-Stack Developer & Designer",
   description: "Building beautiful and functional web experiences with modern technologies",
-  url: "https://alexchen.dev",
-  email: "hello@alexchen.dev",
+  url: "https://vikashkumar.dev",
+  email: "hello@vikashkumar.dev",
   location: "San Francisco, CA",
   availability: "Available for freelance projects",
 };
 
 export const socialLinks = {
-  github: "https://github.com/alexchen",
-  linkedin: "https://linkedin.com/in/alexchen",
-  twitter: "https://twitter.com/alexchen",
-  dribbble: "https://dribbble.com/alexchen",
+  github: "https://github.com/vikashkumar",
+  linkedin: "https://linkedin.com/in/vikashkumar",
+  twitter: "https://twitter.com/vikashkumar",
+  dribbble: "https://dribbble.com/vikashkumar",
 };
 
 export const navLinks: NavLink[] = [
@@ -34,7 +34,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "TypeScript", "Stripe", "Prisma", "PostgreSQL"],
     category: "Web App",
     featured: true,
-    github: "https://github.com/alexchen/ecommerce",
+    github: "https://github.com/vikashkumar/ecommerce",
     demo: "https://ecommerce-demo.vercel.app",
     year: "2024",
   },
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     tags: ["React", "Node.js", "Socket.io", "MongoDB", "Tailwind CSS"],
     category: "Web App",
     featured: true,
-    github: "https://github.com/alexchen/taskmanager",
+    github: "https://github.com/vikashkumar/taskmanager",
     demo: "https://taskmanager-demo.vercel.app",
     year: "2024",
   },
@@ -60,7 +60,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "OpenAI", "Python", "FastAPI", "Redis"],
     category: "Web App",
     featured: true,
-    github: "https://github.com/alexchen/ai-content",
+    github: "https://github.com/vikashkumar/ai-content",
     demo: "https://ai-content-demo.vercel.app",
     year: "2023",
   },
@@ -72,7 +72,7 @@ export const projects: Project[] = [
     tags: ["React Native", "Expo", "Firebase", "Redux"],
     category: "Mobile",
     featured: false,
-    github: "https://github.com/alexchen/fitness-app",
+    github: "https://github.com/vikashkumar/fitness-app",
     year: "2023",
   },
   {
@@ -83,8 +83,8 @@ export const projects: Project[] = [
     tags: ["React", "TypeScript", "Storybook", "Tailwind CSS"],
     category: "Open Source",
     featured: false,
-    github: "https://github.com/alexchen/design-system",
-    demo: "https://design-system.alexchen.dev",
+    github: "https://github.com/vikashkumar/design-system",
+    demo: "https://design-system.vikashkumar.dev",
     year: "2023",
   },
   {
@@ -95,7 +95,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "Mapbox", "Supabase", "TypeScript"],
     category: "Web App",
     featured: false,
-    github: "https://github.com/alexchen/realestate",
+    github: "https://github.com/vikashkumar/realestate",
     demo: "https://realestate-demo.vercel.app",
     year: "2022",
   },
